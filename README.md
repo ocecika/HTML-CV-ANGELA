@@ -1,2 +1,2 @@
-# HTML-CV-ANGELA
-This is my CV for the Assigment 2
+# Resume-CV-Design-N19
+How to create the Resume/CV Design using HTML and CSS
